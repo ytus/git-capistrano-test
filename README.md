@@ -5,6 +5,8 @@ http://rogerdudler.github.com/git-guide/
 
 http://travisonrails.com/2010/05/25/deploy-sinatra-application-with-capistrano
 
+http://alexpearce.me/2012/07/deploying-to-a-vps-with-capistrano/
+
 set HOME=c:\Users\a\
 
 capify .
